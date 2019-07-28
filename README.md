@@ -2,12 +2,6 @@
 Ambitious, objective driven, motivated graduate of Makers Academy. My constant drive to source new challenges along with my desire to learn and be exposed to will ensure that I accomplish anything I set my mind to. I am currently searching for my first role in the tech industry in an environment that can both challenge and benefit from my abilities and grow together.
 
 # Projects #
-
-
-# Gabriel Matos #
-Ambitious, objective driven, motivated graduate of Makers Academy. My constant drive to source new challenges along with my desire to learn and be exposed to will ensure that I accomplish anything I set my mind to. I am currently searching for my first role in the tech industry in an environment that can both challenge and benefit from my abilities and grow together.
-
-# Projects #
 <table>
   <tr>
     <th>Title</th>
