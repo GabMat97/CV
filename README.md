@@ -51,7 +51,7 @@ Additionally, pairing on coding throughout Makers every single day allowed me to
 **Team Work:** I have been involved in several extracurricular activities since I was 5 where basketball and football were my preferred sports. These endeavours have taught me how to work with a team towards accomplishing objectives and reaching established goals. In addition to that, group project during university also helped me adapt to different personalities in order to achieve a common goal which was success.
 Having to code within groups in coding project throughout Makers has not only improved my team working abilities but also allowed me to adapt to different inconveniences and work with other to achieve the best result despite these.
 
-#Work Experience#
+# Work Experience #
 ##TRANS ARABIA INTERNATIONAL(INTERNSHIP) - Summer 2015 www.taico.me
 
 During my attendance, I was provided with the opportunity to be exposed to a variety of professional activities related to Sales meeting with major decision makers in the Horeca business segment. I also participated with the company's distribution department getting deliveries out to customers, assisting their training staff to carry out educational modules on beverage preparations and know-how. I was also exposed to several administrative tasks which included filing, accounting(invoice and receipt issue using Sage software) and inventory counts.
