@@ -26,9 +26,7 @@ Ambitious, objective driven, motivated graduate of Makers Academy. My constant d
 # Education #
 ## October 2018 - March 2019: Makers Academy
 This is a highly selective immersive 16 week coding bootcamp. Learnt TDD in both Ruby and Javascript as well as built projects with web frameworks incorporated with databases and HTML/CSS. Also adopted XP values and agile development practices along the way.
-## Coventry University ##
-
-## 2015 - present: Business and Management BA
+## 2015 - present Coventry University: Business and Management BA
 <b>1st year</b> - Legal Aspects of Responsible Leadership - Business and Management Statistics - Internal Management Principles - Integrated Business Management - The Economic Environment of Business - An introduction to Entrepreneurship - Continuous Professional Development
 <b>2nd year</b>: Applied Marketing - Student Enterprise Leadership - Management of E-commerce - Principles of Project Management - Accounting for Management - Supply Chain Management - Continuous Professional Development
 <b>3rd year:</b> Ethical Leadership - Business and Management Dissertation - Managing Change - Europe through a Global Lens - Strategy in Action
