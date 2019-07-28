@@ -7,12 +7,9 @@ Ambitious, objective driven, motivated graduate of Makers Academy. My constant d
 |Codagram(https://github.com/CelineKaslin/Codagram)|Final project at Makers where we decided to build a learning platform where kids can learn the basics of different programming languages|Python, Flask, SQLAlchemy, HTML5, CSS, Bootstrap|Unittest, Travis CI                |
 |Acebook(https://github.com/Sindex42/acebook-team-rocket)         |A facebook clone focusing on Agile methodologies and teamwork|Ruby on Rails,PostgreSQL, Codeclimate, Heroku|Capybara, RSpec
 
-# Education #
-## October 2018 - March 2019: Makers Academy
-This is a highly selective coding bootcamp
-Learnt TDD in both Ruby and Javascript as well as built projects with web frameworks incorporated with databases and HTML/CSS. Also adopted XP values and agile development practices along the way.
+
 ## Coventry University ##
-2015 - present: Business and Management BA##
+##2015 - present: Business and Management BA##
 1st year - Legal Aspects of Responsible Leadership - Business and Management Statistics - Internal Management Principles - Integrated Business Management - The Economic Environment of Business - An introduction to Entrepreneurship - Continuous Professional Development
 2nd year: Applied Marketing - Student Enterprise Leadership - Management of E-commerce - Principles of Project Management - Accounting for Management - Supply Chain Management - Continuous Professional Development
 3rd year: Ethical Leadership - Business and Management Dissertation - Managing Change - Europe through a Global Lens - Strategy in Action
@@ -20,7 +17,9 @@ Learnt TDD in both Ruby and Javascript as well as built projects with web framew
 English - Sociology - Maths - Business - Economics
 ## 2011 - 2014 The International School of Choueifat, Bahrain ##
 Business - Economics - English - AP Maths - Statistics
+
 # Key Skills #
+
 **Discipline:** I have practiced Karate for 10 years where I developed discipline, self-control and patience.
 
 **Working under pressure:** In my high school, we were submitted to daily exams under the SABIS education model which pressured me and improved my ability to work and think under pressure. Additionally, throughout the Makers journey, constant deadlines were meet through team work and communication.
