@@ -2,12 +2,31 @@
 Ambitious, objective driven, motivated graduate of Makers Academy. My constant drive to source new challenges along with my desire to learn and be exposed to will ensure that I accomplish anything I set my mind to. I am currently searching for my first role in the tech industry in an environment that can both challenge and benefit from my abilities and grow together.
 
 # Projects #
-|Title                                             |Description                    |Stack                         |Test Framework
-|----------------|-------------------------------|-----------------------------|
-|Codagram(https://github.com/CelineKaslin/Codagram)|Final project at Makers where we decided to build a learning platform where kids can learn the basics of different programming languages|Python, Flask, SQLAlchemy, HTML5, CSS, Bootstrap|Unittest, Travis CI                |
-|Acebook(https://github.com/Sindex42/acebook-team-rocket)         |A facebook clone focusing on Agile methodologies and teamwork|Ruby on Rails,PostgreSQL, Codeclimate, Heroku|Capybara, RSpec
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Stack</th>
+    <th>Test framework</th>
+  </tr>
+  <tr>
+    <td>Codagram(https://github.com/CelineKaslin/Codagram)</td>
+    <td>Final project at Makers where we decided to build a learning platform where kids can learn the basics of different programming languages</td>
+    <td>Python, Flask, SQLAlchemy, HTML5, CSS, Bootstrap</td>
+    <td>Unittest, Travis CI</td>
+  </tr>
+  <tr>
+	  <td>Acebook(https://github.com/Sindex42/acebook-team-rocket)</td>
+	  <td>A facebook clone focusing on Agile methodologies and teamwork</td>
+	  <td>Ruby on Rails,PostgreSQL, Codeclimate, Heroku</td>
+	  <td>Capybara, RSpec</td>
 
+</table>
 
+# Education #
+## October 2018 - March 2019: Makers Academy
+This is a highly selective coding bootcamp
+Learnt TDD in both Ruby and Javascript as well as built projects with web frameworks incorporated with databases and HTML/CSS. Also adopted XP values and agile development practices along the way.
 ## Coventry University ##
 ##2015 - present: Business and Management BA##
 1st year - Legal Aspects of Responsible Leadership - Business and Management Statistics - Internal Management Principles - Integrated Business Management - The Economic Environment of Business - An introduction to Entrepreneurship - Continuous Professional Development
