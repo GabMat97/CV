@@ -33,13 +33,18 @@ Additionally, pairing on coding throughout Makers every single day allowed me to
 **Team Work:** I have been involved in several extracurricular activities since I was 5 where basketball and football were my preferred sports. These endeavours have taught me how to work with a team towards accomplishing objectives and reaching established goals. In addition to that, group project during university also helped me adapt to different personalities in order to achieve a common goal which was success.
 Having to code within groups in coding project throughout Makers has not only improved my team working abilities but also allowed me to adapt to different inconveniences and work with other to achieve the best result despite these.
 
-#Work Experience
+#Work Experience#
 ##TRANS ARABIA INTERNATIONAL(INTERNSHIP) - Summer 2015 www.taico.me
+
 During my attendance, I was provided with the opportunity to be exposed to a variety of professional activities related to Sales meeting with major decision makers in the Horeca business segment. I also participated with the company's distribution department getting deliveries out to customers, assisting their training staff to carry out educational modules on beverage preparations and know-how. I was also exposed to several administrative tasks which included filing, accounting(invoice and receipt issue using Sage software) and inventory counts.
+
 ##TRANS ARABIA INTERNATIONAL(INTERNSHIP) - Summer 2016 www.taico.me
+
 Further to my participation on my earlier intership in 2015 and management satisfaction for my performance, I was invited to attend a new internship in 2016.
 During this internship, I carried out similar tasks as I had previously but I was also allowed to attend complete product presentations and actually participate on discussions related to meeting supply requirements, negotiating product ranges to be supplied as well as point of sale materials to be allocated, pricing structures and rebates. During these meetings, we were able to secure exclusive supply deals to a major four star hotel called Elite Hotels and Resorts in the Kingdom of Bahrain.
+
 ##drie(INTERNSHIP) - Summer 2017 www.drie.co
+
 Worked in a cybersecurity company called drie where I spent much of my time working on my negotiating and bargaining skills in addition to learning about the technicalities of the industry. I was also shown some of the ways to connect with potential customers and how to attain their business. Throughout my induction process, I was guided on how internal communication should be executed in a small organization.
 
 References available upon request.
